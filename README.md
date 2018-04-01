@@ -8,6 +8,7 @@
   * call for spaekers (end 2018/04/15)
 * [180718 - Modern Web 2018 Call for speakers](https://modernweb.tw/cfp/)
   * call for spaekers (end 2018/05/21)
+  * event date: 2018/07/18-19
 
 * [iThome Video - 跟著國際研討會學IT](https://www.ithome.com.tw/video)
 ### online tool

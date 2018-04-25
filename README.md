@@ -1,5 +1,8 @@
 # speaker zero to hero
 
+### repo
+
+* [GitHub - IvanWei/developer-conferences-in-taiwan](https://github.com/IvanWei/developer-conferences-in-taiwan)
 ### timeline
 
 * [170810 - Modern Web 2017](articles/20170810.md)
@@ -19,22 +22,7 @@
 
 * [Speaker Deck - Share Presentations without the Mess](https://speakerdeck.com/)
 
-## Conference
-
-### 大型 IT Conference
-
-* MOPCON
-  * 行動科技應用開發者年會
-  * Mobile / Open / Platform CONference
-* OSDC.tw
-  * Open Source Developers' Conference in Taiwan
-  * 開源開發者大會
-* COSCUP
-  * Conference for Open Source Coders, Users and Promoters
-  * 開源人年會
-* Modern Web
-
-### 社群組織
+## 社群組織
 
 * GCPUG.tw
   * Google Cloud Platform User Group
